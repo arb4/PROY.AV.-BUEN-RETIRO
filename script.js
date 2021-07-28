@@ -136,7 +136,7 @@ var style11 = {
 
 var proy_buenretiro_a;  
 	
-	proy_buenretiro_a = L.imageOverlay('proy_buenretiro_a.png', [[-28.577587,-70.780788],[-28.581448,-70.774777]],{opacity:0.9}).addTo(map);
+	proy_buenretiro_a = L.imageOverlay('https://raw.githubusercontent.com/arb4/IMG2/main/proy_buenretiro_a.PNG', [[-28.577587,-70.780788],[-28.581448,-70.774777]],{opacity:0.9}).addTo(map);
 
 
 
